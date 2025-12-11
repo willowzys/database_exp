@@ -1,4 +1,4 @@
-# 数据实验
+# 数据库实验
 
 小组成员：
 
@@ -8,18 +8,18 @@
 
 何烨 2023141460310
 
-数据库作业
-  - 第一次编程作业
+数据库实验
+  - 第一次实验
     - extendible_hash_table_test
     - buffer_pool_manager_instance_test
     - lru_k_replacer_test
-  - 第二次编程作业
+  - 第二次实验
     - b_plus_tree_insert_test
     - b_plus_tree_delete_test
     - b_plus_tree_concurrent_test
     
 
-## 第一次编程作业
+## 第一次实验
 ### extendible_hash_table_test
 ![extendible_hash_table_test 示意图](./project1-submission/images/extendible_hash_table_test.jpg)
 
@@ -29,7 +29,7 @@
 ### lru_k_replacer_test
 ![lru_k_replacer_test 示意图](./project1-submission/images/lru_k_replacer_test.jpg)
 
-## 第二次编程作业
+## 第二次实验
 ### b_plus_tree_insert_test
 ![b_plus_tree_insert_test 示意图](./project2-submission/result_images/b_plus_tree_insert_test.png)
 
